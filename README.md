@@ -1,1 +1,2 @@
 # ExercJava
+Primeiro Projeto Git
